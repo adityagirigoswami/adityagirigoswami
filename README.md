@@ -40,11 +40,11 @@
 
 
 ### GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavendrabaheti&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityagirigoswami&show_icons=true&theme=radical)
 
 ### GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghavendrabaheti&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityagirigoswami&theme=radical)
 
 
 ### Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=raghavendrabaheti&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adityagirigoswami&layout=compact&theme=radical)
