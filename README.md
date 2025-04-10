@@ -25,18 +25,38 @@
 </a>
 
 ### Languages and Tools:
-<a href="https://www.python.org/" target="_blank">
-    <img src="https://w7.pngwing.com/pngs/780/811/png-transparent-logo-python-logos-and-brands-icon.png" alt="React" width="40" height="50"/>
-</a>
-<a href="https://www.djangoproject.com" target="_blank">
-    <img src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo-thumbnail.png" alt="Java" width="40" height="50"/>
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://static.cdnlogo.com/logos/f/59/fastapi.svg" alt="Java" width="40" height="50"/>
-</a>
-<a href="https://www.cplusplus.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="50"/>
-</a>
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.djangoproject.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  </a>
+  
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://static.cdnlogo.com/logos/f/59/fastapi.svg" alt="FastAPI" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+
+</div>
 
 
 ### GitHub Stats:
