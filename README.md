@@ -14,7 +14,7 @@
 🌱 I’m currently learning **DJango,FastAPI,AWS,Docker and DSA **.  
 </p>
 <p align="center">
-📫 Reach me at **adityagiri2204@gmail.com** 
+📫 Reach me at <a href="mailto:adityagiri2204@gmail.com">adityagiri2204@gmail.com</a>
 </p>
 
 
