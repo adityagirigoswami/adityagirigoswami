@@ -21,7 +21,7 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/aditya-giri-goswami-16021224a" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="50" style="margin: 10px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40" style="margin: 10px;"/>
 </a>
 
 ### Languages and Tools:
