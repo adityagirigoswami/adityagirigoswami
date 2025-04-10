@@ -2,7 +2,7 @@
 
 <h1 align="center">  Hi 👋,<br> I'm Aditya Giri Goswami💫</h1>
 
-<h3 align="center"> Growing Developer || Python Developer</h3>
+<h3 align="center"> Backend Web Developer || DevOps Enthusiast </h3>
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=fire+code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile." alt="Welcome to my GitHub Profile. " />
 </p>
@@ -11,7 +11,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adityagirigoswami&label=Profile%20views&color=0e75b6&style=flat)
 <p align="center">
-🌱 I’m currently learning **DJango,FastAPI,Python,C++ and DSA**.  
+🌱 I’m currently learning **DJango,FastAPI,AWS,Docker and DSA **.  
 </p>
 <p align="center">
 📫 Reach me at **adityagiri2204@gmail.com** 
